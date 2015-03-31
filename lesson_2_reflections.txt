@@ -29,3 +29,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 It creates a new commit on the branch that you want to keep, with the changes between the 
 two branches that you're trying to merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Always doing merges manually is a lot of work, but sometimes Git is not able to automatically
+resolve conflicts, so it's good to have a human set of eyes on the changes.
