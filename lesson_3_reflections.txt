@@ -7,3 +7,9 @@ automatically stay up-to-date with your remote repository?
 
 If you are working on a project with multiple people, then you all might have different branches
 that you are working on that you don't necessarily want to have on your local repository.
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+Forking is between branches on a local repository. cloning happens between repositories on 
+your local machine, and forks happen between repositories on GitHub. 
