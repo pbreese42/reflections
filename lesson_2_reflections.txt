@@ -20,3 +20,7 @@ How would branches help?
 
 Branches would be useful when there are changes that you are making that you're not sure 
 will make it into the finished product. 
+
+How do the diagrams help you visualize the branch structure?
+
+They're set up visually just like the branching structure.
