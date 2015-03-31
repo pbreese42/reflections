@@ -24,3 +24,8 @@ will make it into the finished product.
 How do the diagrams help you visualize the branch structure?
 
 They're set up visually just like the branching structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It creates a new commit on the branch that you want to keep, with the changes between the 
+two branches that you're trying to merge.
