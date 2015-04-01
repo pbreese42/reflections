@@ -13,3 +13,7 @@ When would you use one instead of another?
 
 Forking is between branches on a local repository. cloning happens between repositories on 
 your local machine, and forks happen between repositories on GitHub. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Then you can quickly update with a smaller chance of conflict in the future.
