@@ -17,3 +17,9 @@ your local machine, and forks happen between repositories on GitHub.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	Then you can quickly update with a smaller chance of conflict in the future.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	It would be harder, because you'd have to manually keep track of all the files that changed,
+	and make sure to send them all to everyone collaborating. However, if there were few people 
+	and few changes, Git and GitHub might be overkill.
