@@ -1,36 +1,36 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-A .git folder is created to start tracking revision history, but no commits are made 
-yet. This is so you can choose which files to add to Git as tracked files.
+	A .git folder is created to start tracking revision history, but no commits are made 
+	yet. This is so you can choose which files to add to Git as tracked files.
 
 How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
 
-The staging area shows only the files you're wanting to push to the repository 
-through a commit.  The working directory might contain other files which you don't want
-to ever commit. (like compiled files.)
+	The staging area shows only the files you're wanting to push to the repository 
+	through a commit.  The working directory might contain other files which you don't want
+	to ever commit. (like compiled files.)
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-Only put the files that make sense for the logical change you're trying to make in the 
-staging area, so that they're the only ones being committed.
+	Only put the files that make sense for the logical change you're trying to make in the 
+	staging area, so that they're the only ones being committed.
 
 What are some situations when branches would be helpful in keeping your history organized? 
 How would branches help?
 
-Branches would be useful when there are changes that you are making that you're not sure 
-will make it into the finished product. 
+	Branches would be useful when there are changes that you are making that you're not sure 
+	will make it into the finished product. 
 
 How do the diagrams help you visualize the branch structure?
 
-They're set up visually just like the branching structure.
+	They're set up visually just like the branching structure.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-It creates a new commit on the branch that you want to keep, with the changes between the 
-two branches that you're trying to merge.
+	It creates a new commit on the branch that you want to keep, with the changes between the 
+	two branches that you're trying to merge.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-Always doing merges manually is a lot of work, but sometimes Git is not able to automatically
-resolve conflicts, so it's good to have a human set of eyes on the changes.
+	Always doing merges manually is a lot of work, but sometimes Git is not able to automatically
+	resolve conflicts, so it's good to have a human set of eyes on the changes.
